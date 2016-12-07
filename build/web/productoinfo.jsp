@@ -4,10 +4,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Informacion Productos</title>
+        <title>Informacion Productos Del Negocio</title>
     </head>
     <body action="ProductoServlet">
-        <h1>Información Productos </h1>
+        <h1>Información Productos Del Negocio</h1>
         <form action="./ProductoServlet" method="POST">
             <table>
                 <tr>
